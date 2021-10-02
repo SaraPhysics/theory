@@ -1,4 +1,4 @@
-# theory
+# Review
 Here it is a little review about some of the most important physics phenomena:
 
 - **Deterministic chaos and Feigenbaum graphic**: study of a logistic map to illustrate chaos phenomena
