@@ -9,3 +9,6 @@ Electric field created by two opposite charges: electric field lines of two oppo
 Lorenz equations: representation of Lorenz equations to see the famous 'Lorenz Attractor' related with chaos theory
 Model of thermal diffusion in the Earth's crust: using FTCS method to solve diffusion equation with a boundary condition related to Earth's temperature
 
+"**Ejercicio 1. Ecuaciones de Lorenz**\n",
+    "\n",
+    "Considerar las ecuaciones de Lorenz:\n",
